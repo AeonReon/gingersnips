@@ -1,0 +1,47 @@
+Gingersnips Hair Salon — Project Notes
+=======================================
+
+Business: Gingersnips (Ginger Snips) — Unisex Hair Salon
+Owner: Lesley Ann McNeill
+Established: ~1992 (33+ years in business)
+Award-winning boutique salon — all ages, all genders
+
+Address: 7A Society Street, Coleraine, BT52 1LA, Northern Ireland
+Phone: 028 7035 2986 (landline)
+Email: Not provided
+Facebook: facebook.com/people/Gingersnips-Coleraine/100083707866489 (740+ followers, 5.0 stars)
+Instagram: @gingersnips_coleraine (220+ followers)
+Google: 4.6 stars, 21 reviews
+
+Opening Hours: Not confirmed — need to verify with client
+
+Services:
+- Hair cutting & styling (unisex)
+- Hair colouring (Matrix colour system)
+- Perms
+- General hairdressing
+
+Products Stocked (official stockists):
+- Moroccan Oil
+- American Crew
+- GHD
+- Matrix Biolage
+- Matrix styling products
+
+Staff: Lesley Ann + 3 fully qualified stylists
+
+Brand Colours (from signage):
+- Charcoal/dark grey background
+- Bright lime green accent
+- White text
+
+Web3Forms key: YOUR_WEB3FORMS_ACCESS_KEY
+GitHub repo: TBC
+Vercel deployment: TBC
+
+Notes:
+- Phone is landline (028) — Call button only, NO WhatsApp
+- No pricing listed publicly
+- Individual reviews not accessible online — marked as placeholders, need real reviews from client
+- Opening hours need confirmation from client
+- No email address publicly available — need from client
