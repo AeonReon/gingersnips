@@ -36,8 +36,8 @@ Brand Colours (from signage):
 - White text
 
 Web3Forms key: YOUR_WEB3FORMS_ACCESS_KEY
-GitHub repo: TBC
-Vercel deployment: TBC
+GitHub repo: AeonReon/gingersnips
+Vercel deployment: https://gingersnips-coleraine.vercel.app
 
 Notes:
 - Phone is landline (028) — Call button only, NO WhatsApp
